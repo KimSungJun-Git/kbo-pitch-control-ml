@@ -1,0 +1,6 @@
+# train_blend.py 전용 — 학습에만 필요, 온라인 평가서버(script.py)는 이 파일을 쓰지 않는다.
+# requirements.txt 는 의도적으로 torch-free 유지(1.9GB CUDA 빌드를 배포에 넣지 않기 위해,
+# NN 추론은 numpy 순전파로 재구현해 script.py 에는 torch import 가 없다).
+# Phase 3 에서 train_blend.py 를 재실행할 경우에만 이 파일도 함께 설치할 것.
+torch==2.7.1
+-r requirements.txt
