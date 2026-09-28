@@ -331,7 +331,7 @@ trackman 집계는 투수당 거의 정적인 값이라 신원 정보와 중복�
 - [ ] Private Score 재현용 학습 코드 → `train.py` (추론 코드는 제출한 `script.py`로 대체)
 - [ ] 자유 형식 솔루션 PPT
 - [ ] 팀원별 Phase 3 참가 여부 기재
-- [ ] 제출처 `dacon@dacon.io`, 인코딩 UTF-8, 확장자 `.py` / `.ipynb`
+- [ ] 제출처: 주최측 공식 제출 이메일, 인코딩 UTF-8, 확장자 `.py` / `.ipynb`
 
 > Phase 1 미이수자는 Phase 2 성적과 무관하게 Phase 3 참가 불가.
 
